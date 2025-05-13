@@ -1,11 +1,11 @@
 {
-  "name": "AWAIS-MD-V3",
+  "name": "OBITO-MD",
   "version": "4.0.0",
   "description": "A WHATSAPP BOT CREATED BY AWAISXD",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name AWAIS-MD",
-    "stop": "pm2 stop AWAIS-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name OBITO-MD",
+    "stop": "pm2 stop OBITO-MD",
     "restart": "pm2 restart AWAIS-MD"
   },
   "dependencies": {
