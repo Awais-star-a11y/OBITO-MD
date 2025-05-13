@@ -112,7 +112,7 @@ const {
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*YOUR BOT AWAIS MD ACTIVE NOW ENJOY♥️*\n\n*PREFIX:* ${prefix}`;
+  let up = `*YOUR BOT OBITO-MD ACTIVE NOW ENJOY♥️*\n\n*PREFIX:* ${prefix}`;
     conn.sendMessage(conn.user.id, { image: { url: `https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg` }, caption: up })
   }
   })
@@ -770,7 +770,7 @@ const {
   }
   
   app.get("/", (req, res) => {
-  res.send("AWAIS MD STARTED ✅");
+  res.send("OBITO-MD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
