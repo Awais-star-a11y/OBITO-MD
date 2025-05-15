@@ -18,10 +18,10 @@ module.exports = {
     MODE: process.env.MODE || "public",
     AUTO_VOICE: process.env.AUTO_VOICE || "false",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
-    AUTHOR: (process.env.PACK_INFO?.split(';') || [])[0] || 'OBITO MD',
-    PACKNAME: (process.env.PACK_INFO?.split(';') || [])[1] || '923182832887',
+    AUTHOR: (process.env.PACK_INFO?.split(';') || [])[0] || '𝕺𝕭𝕴𝕿𝕺-𝕸𝕯',
+    PACKNAME: (process.env.PACK_INFO?.split(';') || [])[1] || '9231828',
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/zovr55.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M OBITO-MD WHATSAPP BOT 😊♻️",
     ANTI_LINK: process.env.ANTI_LINK || "false",
     ANTI_BAD: process.env.ANTI_BAD || "false",
@@ -29,7 +29,7 @@ module.exports = {
     FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     OWNER_REACT: process.env.OWNER_REACT || "false",
-    BOT_NAME: process.env.BOT_NAME || "OBITO-MD",
+    BOT_NAME: process.env.BOT_NAME || "𝕺𝕭𝕴𝕿𝕺-𝕸𝕯",
     ANTI_VV: process.env.ANTI_VV || "true",
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log", // change it to 'same' if you want to resend deleted message in same chat
     DEV: process.env.DEV || "923470027813", //replace with your whatsapp number
