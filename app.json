@@ -1,7 +1,7 @@
 {
-  "name": "OBITO-MD",
+  "name": "𝕺𝕭𝕴𝕿𝕺-𝕸𝕯",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀᴡᴀɪs",
-  "logo": "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg",
+  "logo": "https://files.catbox.moe/zovr55.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://github.com/Awais-star-a11y/TESTING-REPO/raw/refs/heads/main/IMG-20250409-WA0093.jpg"
+      "value": "https://files.catbox.moe/zovr55.jpg"
     }, 
     
     "ALIVE_MSG": {
